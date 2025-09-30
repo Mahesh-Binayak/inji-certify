@@ -1,0 +1,7 @@
+reviews:
+  auto_review:
+    base_branches:
+      # Explicitly keep the primary release branch
+      - master
+      # Add your development branch
+      - develop
